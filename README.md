@@ -1,3 +1,7 @@
+#install
+npm install -g https://github.com/amolc/gist-cli
+
+
 # gist-cli
 
 A gist cli client written in Node.
