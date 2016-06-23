@@ -88,6 +88,7 @@ for (var a = 0; a < args.length; a++) {
       anon = true
       break
     default:
+      private = true
       files.push(args[a])
       break
   }
